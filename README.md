@@ -26,4 +26,4 @@ Through **GreYat Labs**, I conduct research into:
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/greatojietohamen) | [Email](great.0.ojietohamen@gmail.com)
+[LinkedIn](www.linkedin.com/in/greatojietohamen) | [Email](greyatlabs@gmail.com)

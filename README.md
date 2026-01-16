@@ -19,7 +19,7 @@ Through **GreYat Labs**, I conduct research into:
 ---
 
 ### 📈 Proof of Work
-- 🔭 I’m currently working on building GreYat Labs.
+- 🔭 I’m currently working on building **GreYat Labs**.
 - 🌱 I’m currently learning **Bitcoin Protocol Development (Saylor CS120)**.
 - 💬 Ask me about **Cybersecurity or Building high-efficiency budget PC setups**.
 

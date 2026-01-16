@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Great Ojietohamen - [GreYat Labs] 👋
 
-<!--
-**G-ojies/G-ojies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 300L Computer Science Student @ UNIBEN
+I am a security-focused developer. I specialize in systems programming, cybersecurity, and exploring the technical depths of the Bitcoin protocol.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Founder of Greyat Labs
+Through **Greyat Labs**, I conduct research into:
+- **System Security:** Hardware-level recovery and firmware research.
+- **Blockchain Privacy:** Analyzing Bitcoin's security model and Layer 2 solutions.
+- **Digital Forensics:** Documenting secure data retrieval protocols.
+
+### 🛠️ Technical Toolkit
+- **Languages:** Python, (Systems Programming).
+- **Security:** Vulnerability assessment, WordPress, BIOS-level research.
+- **Tools:** Git/GitHub, Linux environments, PC Architecture.
+
+---
+
+### 📈 Proof of Work
+- 🔭 I’m currently working on my building GreYat Labs.
+- 🌱 I’m currently learning **Bitcoin Protocol Development (Saylor CS120)**.
+- 💬 Ask me about **Cybersecurity or Building high-efficiency budget PC setups**.
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/greatojietohamen) | [Email](great.0.ojietohamen@gmail.com)

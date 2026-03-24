@@ -13,14 +13,14 @@ Through **GreYat Labs**, I conduct research into:
 
 ### 🛠️ Technical Toolkit
 - **Languages:** Python, (Systems Programming).
-- **Security:** Vulnerability assessment, WordPress, BIOS-level research.
-- **Tools:** Git/GitHub, Linux environments, PC Architecture.
+- **Security:** Vulnerability assessment, BIOS-level research.
+- **Tools:** Git/GitHub, Linux environments,WordPress,PC Architecture.
 
 ---
 
 ### 📈 Proof of Work
 - 🔭 I’m currently working on building **GreYat Labs**.
-- 🌱 I’m currently learning **Bitcoin Protocol Development (Saylor CS120)**.
+- 🌱 I’m currently learning **Bitcoin Protocol Development**.
 - 💬 Ask me about **Cybersecurity or Building high-efficiency budget PC setups**.
 
 ---

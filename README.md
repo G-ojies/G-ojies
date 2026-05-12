@@ -5,7 +5,7 @@ I am a security-focused developer. I specialize in systems programming, cybersec
 
 ---
 
-### 🛡️ Founder of Greyat Labs
+### 🛡️ Founder of GreYat Labs
 Through **GreYat Labs**, I conduct research into:
 - **System Security:** Hardware-level recovery and firmware research.
 - **Blockchain Privacy:** Analyzing Bitcoin's security model and Layer 2 solutions.

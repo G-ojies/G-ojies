@@ -1,6 +1,6 @@
 # Hi there, I'm Great Ojietohamen - [GreYat Labs] 👋
 
-### 🎓 300L Computer Science Student @ UNIBEN
+### 🎓 Computer Science Student @ UNIBEN
 I am a security-focused developer. I specialize in systems programming, cybersecurity, and exploring the technical depths of the Bitcoin protocol.
 
 ---

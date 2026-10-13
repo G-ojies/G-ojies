@@ -1,7 +1,11 @@
-# Hi there, I'm Great Ojietohamen - [GreYat Labs] 👋
+# Hi there, I'm Great Ojietohamen 👋
 
-### 🎓 Computer Science Student @ UNIBEN
-I am a Security-focused Developer. I specialize in Systems Programming, Cybersecurity, and exploring the Technical depths of the Bitcoin Protocol.
+**Security researcher and builder · Founder of GreYat Labs · Computer Science student @ UNIBEN**
+
+I break systems to understand them, then build ones that hold up. My work spans smart contract audits and bug bounties, systems programming, and on-chain products on **Solana** and **Bitcoin**.
+
+Currently shipping **[Sonar](https://sonar.nodalytics.xyz)**, live prediction-market signals that are moving on-chain to Solana. More of my work lives at **[greatojies.onrender.com](https://greatojies.onrender.com)**.
+
 ---
 
 ### 🛡️ Founder of GreYat Labs
@@ -25,4 +29,4 @@ Through **GreYat Labs**, I conduct research into:
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/greatojietohamen) | [Email](greyatlabs@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/greatojietohamen) | [Email](mailto:greyatlabs@gmail.com) | [Portfolio](https://greatojies.onrender.com)

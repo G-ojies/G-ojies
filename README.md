@@ -4,13 +4,11 @@
 
 I build on-chain systems and take other people's apart. At **GreYat Labs** I ship end to end across **Rust, Solana, Sui and Bitcoin**: programs, tooling, autonomous agents and the interfaces on top of them. The other half of my work is independent security review, with every finding written up with a reproduction, an impact assessment and a fix.
 
-I care about clean, verifiable code, and about software that still works on a low-end phone and an unreliable connection.
 
 ---
 
 ### 🔭 What I'm working on
 - **[Sonar](https://sonar.nodalytics.xyz)**: live prediction-market signals, now moving on-chain to Solana.
-- Hackathons and bounty programmes across Solana Foundation, Superteam, Immunefi and Devpost.
 - Bitcoin protocol development: threshold signing, transaction encoding and wallet forensics.
 
 ### 🚀 Featured projects
